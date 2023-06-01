@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PaginaGoogle</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body> 
+    <div>
+        <span id="G">G</span>
+        <span id="O">o</span>
+        <span id="o">o</span>
+        <span id="g">g</span>
+        <span id="l">l</span>
+        <span id="e">e</span>
+    </div>
+    <div class="search">
+        <p>Enter your search terms...</p>
+        <form>
+            <input type="text">
+        </form>
+        <button type="submit">Google Search</button>
+        <button type="submit">I'm feeling lucky</button>
+    </div>
+    <p>...or <font color= "#0000FF"><ins>browse web pages</font></ins>  by category.</p>
+    
+    <p>Give the gift of Google and earn rewards: <font color= "#0000FF"><ins>Join our affiliate program</ins></font>.</p>
+    
+    <p>©2000 Google Inc. <font color= "#0000FF"><ins>About | Search Tips | Add Browser Buttons | Jobs@Google</ins></font></p>
+
+</body>
+</html>
